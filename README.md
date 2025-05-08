@@ -2,7 +2,7 @@ Codes for all the homework problems of the course EAS-502: Numerical Methods.
 
 Topics include (non-exhaustive- for coding only):
   1. Root finding methods.
-     - Fixed point iteration.
+     - Fixed point iteration method.
      - Bisection method.
      - Chord method.
      - Newton's method.
