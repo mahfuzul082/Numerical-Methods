@@ -1,3 +1,6 @@
+# Numerical Methods
+Instructor: Prof. Zheng (Leslie) Chen
+
 Codes for all the homework problems of the course EAS-502: Numerical Methods.
 
 Topics include (non-exhaustive- for coding only):
