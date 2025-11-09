@@ -33,7 +33,7 @@ Topics include (non-exhaustive- for coding only):
 (Extra) Time-stepping schemes for solving first-order PDE (Problem from MTH 572: Numerical Methods for Partial Differential Equations).
   - Forward Euler central differencing (FECD).
   - Forward Euler forward differencing (FEFD).
-  - Feap Frog.
+  - Leap Frog.
   - Lax Wendroff.
   - Implicit.
   - Crank-Nicholson.
