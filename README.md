@@ -30,10 +30,10 @@ Topics include (non-exhaustive- for coding only):
      - Taylor's methods (second and fourth order).
      - Runge-Kutta method (fourth order).
      
-  (Extra) Time-stepping schemes for solving first-order PDE (Problem from MTH 572: Numerical Methods for Partial Differential Equations).
-    - Forward Euler central differencing (FECD).
-    - Forward Euler forward differencing (FEFD).
-    - Feap Frog.
-    - Lax Wendroff.
-    - Implicit.
-    - Crank-Nicholson.
+(Extra) Time-stepping schemes for solving first-order PDE (Problem from MTH 572: Numerical Methods for Partial Differential Equations).
+  - Forward Euler central differencing (FECD).
+  - Forward Euler forward differencing (FEFD).
+  - Feap Frog.
+  - Lax Wendroff.
+  - Implicit.
+  - Crank-Nicholson.
